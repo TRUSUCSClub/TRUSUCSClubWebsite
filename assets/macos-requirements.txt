@@ -1,4 +1,0 @@
-brew install node
-brew install npm
-brew install Node.Js
-npm install -D tailwindcss
